@@ -31,4 +31,4 @@ A simple load balancer project where I'm experimenting with proxy servers, load 
 
 
 
-Feel free to customize it further based on your preferences and project details.
+## Feel free to customize it further based on your preferences and project details.
