@@ -2,7 +2,7 @@ This is repo/project is a Work in Progress 🚧
 
 # Load Balancer 🚀
 
-A simple load balancer project where I'm experimenting with proxy servers, load balancing, and adding a touch of Swagger OpenAPI.
+A simple load balancer project where I'm experimenting with proxy servers, load balancing, and adding Swagger OpenAPI docs.
 
 ## What's the Process?
    1. Incoming Request 
