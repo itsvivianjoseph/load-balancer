@@ -1,0 +1,12 @@
+openapi: 3.0.0
+info:
+  title: Load Balancer Proxy API
+  version: 1.0.0
+paths:
+  /:
+    get:
+      summary: Proxy Request
+      description: Route requests to the next available server.
+      responses:
+        '200':
+          description: Successful response
